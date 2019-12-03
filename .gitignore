@@ -16,3 +16,5 @@ setup.log
 /odate.install
 /test/.merlin
 /src/.merlin
+_esy
+node_modules
